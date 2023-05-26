@@ -1,0 +1,4 @@
+xlsxwriter
+pandas==1.5
+streamlit
+joblib
